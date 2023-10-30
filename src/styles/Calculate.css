@@ -1,0 +1,55 @@
+.inx-eco-calc {
+    display: grid;
+}
+
+.inx-eco-wrap {
+    align-self: center;
+}
+
+.inx-eco-main-container {
+    text-align: center;
+}
+
+.inx-eco-calc-stats {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+.inx-eco-stat-container {
+    color: #f88d36;
+    font-size: 1.3em;
+}
+
+.inx-eco-stat {
+    max-width: 60px;
+    height: 60px;
+    margin-bottom: 8px;
+    font-size: 1.7em;
+    background: transparent;
+    color: #ffffff;
+    border-radius: 50%;
+    appearance: none;
+    text-align: center;
+}
+
+::placeholder {
+    color: rgb(129, 129, 129);
+    font-size: 0.4em;
+  }
+
+.inx-input-info {
+    color: #cc3030;
+    font-size: 0.6em;
+}
+
+/* Firefox */
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+/* Chrome */
+input::-webkit-inner-spin-button,
+input::-webkit-outer-spin-button { 
+	-webkit-appearance: none;
+	margin:0;
+}

@@ -1,0 +1,15 @@
+.inx-eco-footer {
+    position: relative;
+    bottom: 0;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.inx-eco-text {
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-size: 12px;
+    color: #101010;
+}
