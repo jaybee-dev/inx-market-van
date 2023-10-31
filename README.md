@@ -18,5 +18,5 @@ I use `React` as framework, and `HTML` & `CSS`
 
 ### `Links`
 
-[INX Website](https://inxserv.fr/)
+[INX Website](https://inxserv.fr/) | 
 [INX Discord](https://discord.gg/9Fs6Qhx)
